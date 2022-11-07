@@ -1,0 +1,154 @@
+@font-face {
+
+    font-family: 'montserratRegular';
+
+    src: url('../../../images/fonts/Montserrat-Regular.ttf');
+
+}
+
+@font-face {
+
+    font-family: 'montserratBold';
+
+    src: url('../../../images/fonts/Montserrat-Bold.ttf');
+
+}
+
+@font-face {
+
+    font-family: 'merriweather';
+
+    src: url('../../../images/fonts/merriweather/Merriweather-Bold.ttf');
+
+}
+
+@font-face {
+
+    font-family: 'RobotoBold';
+
+    src: url('../../../images/fonts/roboto/Roboto-Bold.ttf');
+
+}
+@font-face {
+
+    font-family: 'RobotoRegular';
+
+    src: url('../../../images/fonts/roboto/Roboto-Regular.ttf');
+
+}
+@font-face{
+    font-family: 'RobotoBlack';
+
+    src: url('../../../images/fonts/roboto/Roboto-Black.ttf');
+}
+@font-face {
+
+    font-family: 'utm_alberta_heavy';
+
+    src: url('../../../images/fonts/UTM Alberta Heavy.ttf') format('truetype');
+
+}
+@font-face{
+    font-family: 'LatoRegular';
+
+    src: url('../../../images/fonts/Lato-Regular.ttf') format('truetype');
+    
+}
+@font-face{
+    font-family: 'LatoBold';
+
+    src: url('../../../images/fonts/Lato-Bold.ttf') format('truetype');
+    
+}
+@font-face{
+    font-family: 'LatoBoldItalic';
+
+    src: url('../../../images/fonts/Lato-BoldItalic.ttf') format('truetype');
+    
+}
+@font-face {
+
+    font-family: 'UTMBitsumishiPro';
+
+    src: url('../../../images/fonts/UTMBitsumishiPro.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'merriweather-bold';
+
+    src: url('../../../images/fonts/merriweather/Merriweather-Bold.ttf');
+
+}
+
+@font-face {
+
+    font-family: 'muli';
+
+    src: url('../../../images/fonts/muli/Muli-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'muli-bold';
+
+    src: url('../../../images/fonts/muli/Muli-Bold.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'opensans';
+
+    src: url('../../../images/fonts/opensans/OpenSans-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'opensans_semibold';
+
+    src: url('../../../images/fonts/opensans/OpenSans-SemiBold.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'opensans_bold';
+
+    src: url('../../../images/fonts/opensans/OpenSans-Bold.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'nunito';
+
+    src: url('../../../images/fonts/nunito/Nunito-Regular.ttf');
+
+}
+
+@font-face {
+
+    font-family: 'nunito_bold';
+
+    src: url('../../../images/fonts/nunito/Nunito-Bold.ttf');
+    
+}
+
+@font-face {
+
+    font-family: 'nunito_exbold';
+
+    src: url('../../../images/fonts/nunito/Nunito-ExtraBold.ttf');
+    
+}
+@font-face {
+
+    font-family: 'utm-nokia';
+
+    src: url('../../../images/fonts/00146-UTM-Nokia.ttf');
+    
+}
