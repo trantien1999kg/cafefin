@@ -170,7 +170,7 @@
                         <?php foreach ($sanpham as $k => $v) {?>
                         <div class="col-12 box_product fadeInUp wow" data-wow-delay="<?= $k * 0.1?>s">
                             <div class="box_img_product">
-                                <?=$func->addHrefImg( $func->getCom($v["type"]).'/'.$v["tenkhongdau"],'resize1/100x142/1/'._upload_baiviet_l.$v["photo"],$v["ten"],100,142); ?>
+                                <?=$func->addHrefImg( $func->getCom($v["type"]).'/'.$v["tenkhongdau"],_upload_baiviet_l.$v["photo"],$v["ten"],100,142); ?>
                                 <div class="link_to_cart _add_to_cart" data-id="<?=$v['id']?>"><?=_themvaogio?></div>
 
                             </div>

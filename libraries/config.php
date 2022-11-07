@@ -87,7 +87,7 @@
 
 
 
-			'dbname'=> 'db_cafefin',
+			'dbname'=> 'db_cf',
 
 
 

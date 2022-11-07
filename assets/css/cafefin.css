@@ -1290,3 +1290,21 @@ a.btn-taovandon:hover{
     white-space: normal;
     overflow: hidden; 
 }
+.box_day_category_new {
+    font-family: HEV;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.0072em;
+    color: var(--html-cl2-website);
+    position: absolute;
+    bottom: 0;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 20px;
+    height: 50px;
+    background: linear-gradient(to top, #2a110de3 20%, #2a110ddb 30%, #2a110dcc 40%, #2a110dbf 50%,#2a110da8 60%, #2a110dc4 60%, #2a110d9e 70%, #2a110d8c 80%, #2a110d63 90%, transparent 100%);
+}

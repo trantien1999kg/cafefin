@@ -1925,6 +1925,12 @@ a.nav-social__link:hover>img {
     font-family: var(--font-robo-bold);
 }
 @media (max-width: 768px){
+    .display-n{
+        display: none !important;
+    }
+    .grid_product.show {
+        display: grid !important;
+    }
     .product{
         background-position: relative !important;
     }
