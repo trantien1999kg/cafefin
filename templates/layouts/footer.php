@@ -103,20 +103,7 @@
         </div>
     </div>
 
-    <section class="copyright pt10 pb10">
-        <div class="container">
-            <div class="row d-flex align-items-center row-border__top">
-                <div class="item col-12 w-100-m box" type="copy">
-                    <div class="box-copyright t-center cl-white">
-                    © Copyright 2022 & All rights reserved by i-web
-                    </div>
-                    <div class="box_social">
-                    <?=$func->getSocial($mxh);?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
 </footer>
 
